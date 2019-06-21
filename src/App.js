@@ -9,13 +9,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header>
+      {/* <header>
         <div class="icon avatar" />
         <div class="name-and-title">
           <span class="name">WU CHONG</span>
           <span class="title">Full stack web developer</span>
         </div>
-      </header>
+      </header> */}
       <Timeline lineColor={'#ddd'} className="app_timeline">
         <TimelineItem
           key="001"
