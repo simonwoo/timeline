@@ -52,10 +52,10 @@ function App() {
             <img src={dayu} style={{width: "100%", paddingTop: 10}}/>
           </div>
           <div style={{margin: "20px 0"}}>
-            <a href="/" style={{textDecoration:'none', color: "#888"}}>大鱼号运营平台</a>
+            <a href="/timeline" style={{textDecoration:'none', color: "#888"}}>大鱼号运营平台</a>
           </div>
           <div style={{margin: "20px 0"}}>
-            <a href="/" style={{textDecoration:'none', color: "#888"}}>大鱼号C端</a>
+            <a href="/timeline" style={{textDecoration:'none', color: "#888"}}>大鱼号C端</a>
 
           </div>
         </TimelineItem>
@@ -67,7 +67,7 @@ function App() {
           <h3>广发证券</h3>
           <h4>前端开发leader</h4>
           <div style={{margin: "20px 0"}}>
-            <a href="/" style={{textDecoration:'none', color: "#888"}}>投研平台</a>
+            <a href="/timeline" style={{textDecoration:'none', color: "#888"}}>投研平台</a>
           </div>
         </TimelineItem>
       </Timeline>
