@@ -23,17 +23,17 @@ function App() {
           <h4>前端开发工程师</h4>
           <div style={{margin: "20px 0"}}>
             <a href="https://studio.restlet.com/" style={{textDecoration:'none', color: "#888"}}>Restlet Studio</a>
-            <img src="/restlet-studio.png" style={{width: "100%", paddingTop: 10}}/>
+            <img src="./restlet-studio.png" style={{width: "100%", paddingTop: 10}}/>
           </div>
 
           <div style={{margin: "20px 0"}}>
             <a href="https://restlet.com/modules/client/" style={{textDecoration:'none', color: "#888"}}>Restlet Client</a>
-            <img src="/restlet-client.png" style={{width: "100%", paddingTop: 10}}/>
+            <img src="./restlet-client.png" style={{width: "100%", paddingTop: 10}}/>
           </div>
 
           <div style={{margin: "20px 0"}}>
             <a href="https://restlet.com/modules/cloud/" style={{textDecoration:'none', color: "#888"}}>Restlet Cloud</a>
-            <img src="/restlet-cloud.png" style={{width: "100%", paddingTop: 10}}/>
+            <img src="./restlet-cloud.png" style={{width: "100%", paddingTop: 10}}/>
           </div>
         </TimelineItem>
 
@@ -46,7 +46,7 @@ function App() {
           <h4>前端开发工程师</h4>
           <div style={{margin: "20px 0"}}>
             <a href="https://mp.dayu.com/" style={{textDecoration:'none', color: "#888"}}>大鱼号（PC端和Mobile端）</a>
-            <img src="/dayu.png" style={{width: "100%", paddingTop: 10}}/>
+            <img src="./dayu.png" style={{width: "100%", paddingTop: 10}}/>
           </div>
           <div style={{margin: "20px 0"}}>
             <a href="/" style={{textDecoration:'none', color: "#888"}}>大鱼号运营平台</a>
