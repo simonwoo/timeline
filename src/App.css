@@ -27,7 +27,7 @@ header {
 header .avatar {
   margin-bottom: 20px;
 
-  background: url('/me.png') center;
+  background: url('./me.png') center;
   background-size: cover;
 }
 
