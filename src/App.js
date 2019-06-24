@@ -4,6 +4,8 @@ import restletStudio from './restlet-studio.png';
 import restletClient from './restlet-client.png';
 import restletCloud from './restlet-cloud.png';
 import dayu from './dayu.png';
+import dayuC from './dayuC.png';
+import ziguan from './ziguan.png';
 import './App.css';
 
 function App() {
@@ -56,7 +58,7 @@ function App() {
           </div>
           <div style={{margin: "20px 0"}}>
             <a href="/timeline" style={{textDecoration:'none', color: "#888"}}>大鱼号C端</a>
-
+            <img src={dayuC} style={{display: 'block', width: "50%", paddingTop: 10}}/>
           </div>
         </TimelineItem>
         <TimelineItem
@@ -68,6 +70,7 @@ function App() {
           <h4>前端开发leader</h4>
           <div style={{margin: "20px 0"}}>
             <a href="/timeline" style={{textDecoration:'none', color: "#888"}}>投研平台</a>
+            <img src={ziguan} style={{width: "100%", paddingTop: 10}}/>
           </div>
         </TimelineItem>
       </Timeline>
